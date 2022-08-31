@@ -1,8 +1,8 @@
 {
 "count":"0",
-"Ads":"false",
-"messageI":"ca-app-pub-3940256099942544/1033173712",
-"messageB":"ca-app-pub-3940256099942544/6300978111",
-"messageN":"ca-app-pub-3940256099942544/2247696110",
-"messageO":"ca-app-pub-3940256099942544/3419835294"
+"Ads":"true",
+"messageI":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Interstitial",
+"messageB":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Banner",
+"messageN":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Native",
+"messageO":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_AppOpen"
 }
