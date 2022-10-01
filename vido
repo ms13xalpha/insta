@@ -4,5 +4,8 @@
 "messageI":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Interstitial",
 "messageB":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Banner",
 "messageN":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_Native",
-"messageO":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_AppOpen"
+"messageO":"/21753324030,22780110330/com.instagram.videodownloader.photodownloader_AppOpen",
+"messageFbinter":"",
+"messageFbNative":"",
+"messageFbcustomNative":""
 }
